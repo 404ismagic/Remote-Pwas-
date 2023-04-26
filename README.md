@@ -8,6 +8,7 @@ PWA stands for Progressive Web App, which is a type of web application that uses
 
 PWAs use a combination of technologies such as responsive design, service workers, and caching to provide features such as offline access, push notifications, and smooth performance. They can also be added to a user's home screen, just like a native app.
 
-One of the main benefits of PWAs is that they provide a more seamless experience for users since they don't require a separate installation or update process. They are also more cost-effective for developers since they don't require development for multiple platforms.
+Fast and responsive
+To build a PWA, we need to use modern web technologies that enable the above
 
-Overall, PWAs offer a great solution for businesses or developers looking to provide a fast and engaging user experience for their web applications.
+Live Site https://pwa-jate-jb.herokuapp.com/
